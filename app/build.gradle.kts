@@ -21,7 +21,7 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         targetSdk = 36
-        minSdk = 28
+        minSdk = 27
     }
     buildFeatures {
         viewBinding = true
